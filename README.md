@@ -1,4 +1,4 @@
-# ProgUzytkowe
+# ProgUzytkowe zmieniam linie
 Paulina Szczepanska
 
 Opis projektu
