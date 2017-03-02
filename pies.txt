@@ -1,2 +1,3 @@
 to jest pies
 pies wskoczy³ do wanny
+pies ma ogon i lapki
